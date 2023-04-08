@@ -10,23 +10,7 @@ int main() {
     printf("git test\n");
     printf("git test\n");
     printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
-    printf("git test\n");
+    
 
     return 0;
 }
