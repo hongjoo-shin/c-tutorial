@@ -11,7 +11,7 @@ int main() {
     printf("git test\n");
     printf("git test\n");
     
-    printf("testing new feature\n");
+    printf("testing 새로운 한글 폰트\n");
 
     return 0;
 }
